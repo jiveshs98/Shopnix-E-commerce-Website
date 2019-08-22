@@ -5,4 +5,4 @@
  
  Install XAMPP on Windows and save the contents in htdocs folder under any folder name.
  
- The project contains an e-commerce website and an admin panel to make changes. 
+ The project contains an e-commerce website for front-end and an admin panel to make real-time changes at the backend.
